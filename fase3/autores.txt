@@ -1,0 +1,14 @@
+UC5:
+    Número do aluno: 52787
+    Nome do aluno: Catarina Lima
+    Horas gastas: 4:20 h
+    
+UC6:
+    Número do aluno: 52809
+    Nome do aluno: André Silva
+    Horas gastas: 4h
+    
+UC7:
+    Número do aluno: 52839
+    Nome do aluno: João Oliveira 
+    Horas gastas: 3h
